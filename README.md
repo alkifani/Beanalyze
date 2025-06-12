@@ -36,6 +36,8 @@ Beanalyze adalah aplikasi berbasis Android yang menggunakan model YOLOv11 untuk 
    - Unggah gambar biji kopi dari galeri atau kamera.
    - Tunggu hasil deteksi muncul.
    - Lihat jenis biji kopi dan persentase kepercayaan model.
+  
+[Watch the demo video](https://github.com/alkifani/Beanalyze/blob/main/video%20demo%20aplikasi.mp4)
 
 ---
 
