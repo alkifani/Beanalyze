@@ -27,7 +27,7 @@ Beanalyze adalah aplikasi berbasis Android yang menggunakan model YOLOv11 untuk 
 ## 🚀 Cara Menggunakan Aplikasi
 
 1. **Install APK:**
-   - Unduh APK secara manual [Link Downlaod](https://drive.google.com/file/d/1AA87_EvpJFm_CH2mMkB8WG8-jcwCYBDE/view?usp=sharing).
+   - Unduh APK secara manual [(Link Download)](https://drive.google.com/file/d/1AA87_EvpJFm_CH2mMkB8WG8-jcwCYBDE/view?usp=sharing).
    - Aktifkan "Sumber Tidak Dikenal" di pengaturan Android.
    - Instal aplikasi.
 
