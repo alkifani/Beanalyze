@@ -1,7 +1,7 @@
 # ☕ Beanalyze - Aplikasi Deteksi Jenis Biji Kopi Longberry, Peaberry, Premium, dan Defect
 ![Image](Beanalyze_LAI25-SM047.jpg "image") <br>
 
-Beanalyze adalah aplikasi berbasis Android yang menggunakan model YOLOv11 untuk mendeteksi dan mengklasifikasi jenis biji kopi secara otomatis dan efisien.
+Beanalyze adalah aplikasi berbasis Android yang menggunakan model YOLOv11 untuk mendeteksi dan mengklasifikasikan jenis biji kopi secara otomatis dan efisien. Aplikasi ini berguna untuk petani biji kopi hingga coffee lovers untuk mengetahui kualitas serta mutu biji kopi yang akan dikonsumsi. #SortasiCerdasKopiBerkualitas
 
 ## 📱 Fitur Aplikasi
 
