@@ -37,7 +37,7 @@ Beanalyze adalah aplikasi berbasis Android yang menggunakan model YOLOv11 untuk 
    - Tunggu hasil deteksi muncul.
    - Lihat jenis biji kopi dan persentase kepercayaan model.
   
-https://github.com/user-attachments/assets/13f010f0-1ca9-474f-b14e-45e4f5f5546f
+https://github.com/user-attachments/assets/06c7f537-7cc5-4264-8140-acb7e2745f5e
 
 ---
 
